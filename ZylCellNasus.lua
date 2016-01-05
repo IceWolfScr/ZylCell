@@ -1,4 +1,4 @@
-ZylcellVersion       = 0.01
+ZylcellVersion       = 0.02
 ZylcellLoaded        = false
 ZylcellLoadActivator = true
 ZylcellLoadAwareness = true
